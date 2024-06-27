@@ -1,8 +1,7 @@
-![alt text](https://64.media.tumblr.com/125ec6bfa7fb39e26be35f6fff9139aa/b95aa1a14bb12536-ec/s400x600/d8cd8c004ee6d9aa3bb4293d4c87624b61c0fe8f.pnj)
 # Trabajo Práctico de JavaScript 
 Este repositorio contiene el código y los recursos utilizados en el trabajo práctico de JavaScript del curso. El objetivo de este trabajo práctico es desarrollar una aplicación web interactiva que demuestre el uso de JavaScript.
 
-## Puntos a realizar
+## Ejercicios ![alt text](https://64.media.tumblr.com/2f97db80b933cfc806bec060632c7e33/3e5bb4fa69129afe-ee/s75x75_c1/01731af060767fafb99079b429f7d30385327250.gifv)
 
 1. Escribe un programa de una sola línea que haga que aparezca en la pantalla un alert que diga “un mensaje”.
 
@@ -15,9 +14,9 @@ Este repositorio contiene el código y los recursos utilizados en el trabajo pr�
 5. Escribe un programa de tres líneas que pida un número, pida otro número y escriba el resultado de sumar estos dos números.
 
 ## Tecnologías utilizadas ![alt text](https://64.media.tumblr.com/16eee9153235f6802b28b7a404381ca4/a125b177f557b96e-00/s75x75_c1/3319e0dea0af7b76bf804fba5f9ebf19ee4cca6c.gifv)
-- **HTML5:** Utilizado para estructurar y organizar el contenido de la página web.
+- **HTML5:**() Utilizado para estructurar y organizar el contenido de la página web.
 
-- **CSS3:** Utilizado para estilizar y diseñar la apariencia.
+- **CSS3:**() Utilizado para estilizar y diseñar la apariencia.
 - **JavaScript (ES6+):** Lenguaje de programación principal utilizado.
 - **Git:** Utilizado para el control de versiones del proyecto.
 - **Visual Studio Code:** Editor de código recomendado para el desarrollo de este proyecto.
@@ -33,5 +32,3 @@ git clone https://github.com/bbbere/TrabajoPractico1DeJs.git
 [![Bere](https://avatars.githubusercontent.com/u/161093188?v=4)](https://github.com/bbbere) 
 
 [**Berenice Contreras** ](https://github.com/bbbere)
-
-![alt text](https://64.media.tumblr.com/e282996b41e771f86cdefb7b13b840a4/b95aa1a14bb12536-b7/s400x600/481e07a25c2848b84b657cd3e5221bb1c12fc42b.pnj)
