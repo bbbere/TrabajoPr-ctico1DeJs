@@ -5,4 +5,3 @@ Output: Hola Coder*/
 
 const NombreDeUsuario = prompt ("¿Cuál es tu nombre?");
 console.log(NombreDeUsuario)
-const resultado = "Hola" + NombreDeUsuario
