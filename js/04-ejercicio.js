@@ -4,4 +4,4 @@ input: Coder
 Output: Hola Coder*/
 
 const NombreDeUsuario = prompt ("¿Cuál es tu nombre?");
-console.log(NombreDeUsuario)
+console.log("Hola" + NombreDeUsuario);
