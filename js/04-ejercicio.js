@@ -3,5 +3,5 @@ Ejemplo:
 input: Coder 
 Output: Hola Coder*/
 
-const NombreDeUsuario = prompt ("¿Cuál es tu nombre?");
-console.log("Hola" + NombreDeUsuario);
+const nombreDeUsuario = prompt ("¿Cuál es tu nombre?");
+document.write(`<p> Hola ${nombreDeUsuario}! </p>`);
