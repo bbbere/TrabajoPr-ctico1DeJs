@@ -13,6 +13,19 @@ Este repositorio contiene el código y los recursos utilizados en el trabajo pr�
 
 5. Escribe un programa de tres líneas que pida un número, pida otro número y escriba el resultado de sumar estos dos números.
 
+6.Escribe un programa que pida dos números y escriba en la pantalla cual es el mayor.
+
+7.Escribe un programa que pida 3 números y escriba en la pantalla el mayor de los tres.
+
+8.Escribe un programa que pida un número y diga si es divisible por 2.
+
+
+9.Escribe un programa que pida una frase y escriba las vocales que aparecen.
+
+10.Escribe un programa que pida un número y nos diga si es divisible por 2, 3, 5 o 7 (sólo hay que comprobar si lo es por uno de los cuatro).
+
+11.Añadir al ejercicio anterior que nos diga por cuál de los cuatro es divisible (hay que decir todos por los que es divisible).
+
 ## Tecnologías utilizadas ![alt text](https://64.media.tumblr.com/16eee9153235f6802b28b7a404381ca4/a125b177f557b96e-00/s75x75_c1/3319e0dea0af7b76bf804fba5f9ebf19ee4cca6c.gifv)
 - **HTML5:**() Utilizado para estructurar y organizar el contenido de la página web.
 
